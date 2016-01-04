@@ -1,6 +1,4 @@
-﻿
-pause 
-@echo off
+﻿@echo off
 prompt $g
 cls
 @echo off
