@@ -1,6 +1,4 @@
-﻿
-pause
-@echo off
+﻿@echo off
 prompt .
 cd / 
 cls 
@@ -126,6 +124,7 @@ echo *** STOP: 0x00000050 (0xFD3094C2,0x00000001,0xFBFE7617,0x00000000)
 echo.
 @echo off
 echo.
+@echo off
 echo ***  SPCMDCON.SYS - Address FBFE7617 base at FBFE5000, DateStamp 3d6dd67c
 @echo off
 echo.
