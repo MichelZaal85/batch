@@ -145,5 +145,3 @@ echo.
 echo Physical memory dump complete.
 echo Contact your system admin or technical support group for further assistance.
 pause > nul
-
-
